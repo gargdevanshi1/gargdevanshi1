@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi there, I'm Devanshi!
 
-<!--
-**gargdevanshi1/gargdevanshi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Computer Science @ UC San Diego | AI Specialization  
+💡 I build things with AI, data, and code — from ML models to full-stack apps  
+🌱 Currently working at the intersection of Software Development and Deep Learning
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- 🧠 **Gender Bias in Translation** — Transformer + Adversarial learning 
+- 📋 **Task Manager App** — Auth, PostgreSQL, Node.js, React
+- 🛰️ **Multimodal Crop Health Monitoring** — Drones, NDVI, CNNs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+`Python` | `C++` | `Java` | `TypeScript`  
+`React` | `Nest.js` | `PostgreSQL` | `Docker` | `Kubernetes`
+
+📫 Reach me at: [LinkedIn](https://linkedin.com/in/devanshi-garg) | d2garg@ucsd.edu 
+
